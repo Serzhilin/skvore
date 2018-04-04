@@ -1,5 +1,7 @@
 # Skvore - book crossing shelf
 
+## !! This repository made as an example for all 3 test initiatives, that is Walk [your city], Ice Igloo, and Skvore.
+
 ## General information
 - **Project name:** Skvore
 - **Location:** Russia, Tolyatty, Sverdlova st. 46. [Link on a map](https://www.google.ru/maps/place/Ulitsa+Sverdlova,+46,+Tolyatti,+Samarskaya+oblast',+Rusland,+445036/@53.52911,49.285943,17z/data=!3m1!4b1!4m5!3m4!1s0x41687991517e99c7:0x80abffed11e6cdae!8m2!3d53.52911!4d49.288137)
